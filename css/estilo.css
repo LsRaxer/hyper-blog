@@ -1,6 +1,15 @@
-#estilo{
-    /* display: flex; */
+body{
+     display: flex; 
+     flex-direction: center;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
     color: red;
+}
+
+#post{
+    width: 70%;
+    padding: 1px;
+    text-align: left;
+
 }
